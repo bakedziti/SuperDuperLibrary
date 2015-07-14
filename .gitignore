@@ -1,0 +1,19 @@
+*.patch
+*.DS_Store
+CNN/.DS_Store
+# Xcode
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+#*.xcuserstate
+#project.xcworkspace/
+*.xcuserdatad/
+*.xcbkptlist
+*.xccheckout
+# Backup files
+*~.nib
+docs/CNNgo/Architecture/out
+CNN.xcodeproj/.project.pbxproj.swp
+build/
+.CNN iPhone Demo.xcscheme.swp
