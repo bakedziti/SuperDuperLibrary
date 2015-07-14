@@ -7,6 +7,10 @@
 //
 
 public struct SuperDuperWorker {
+    
+    public init() {
+        
+    }
    
     public func doSomethingSuper() -> String {
         
